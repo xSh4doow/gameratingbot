@@ -1,0 +1,5 @@
+botcity_maestro_sdk==0.1.2
+botcity-framework-web>=0.1.6
+setuptools==57.0.0
+openpyxl
+tk==0.1.0
